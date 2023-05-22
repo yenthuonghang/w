@@ -279,15 +279,15 @@ h5 {
 }
 
 h1 {
-    line-height: 56px !important;
+  /*  line-height: 56px !important;*/
 }
 
 .h1-custom-text {
-    line-height: 56px;
+   /* line-height: 56px;*/
 }
 
 .h1-gradient {
-    line-height: 56px;
+  /*  line-height: 56px;*/
 }
 
 p,
