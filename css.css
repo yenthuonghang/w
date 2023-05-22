@@ -231,7 +231,7 @@ h1 {
 .h1-custom-text {
     font-family: Kanit-Medium, sans-serif;
     color: var(--primary-color);
-    font-size: 56px !important;
+    /*font-size: 56px !important;*/
 }
 
 .h1-gradient {
