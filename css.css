@@ -319,26 +319,26 @@ h5 {
 
 
 .border-radius-header {
-    border-bottom-right-radius: 30px;
-    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
 }
 
 .border-radius-footer {
-    border-top-right-radius: 30px !important;
-    border-top-left-radius: 30px !important;
+    border-top-right-radius: 24px !important;
+    border-top-left-radius: 24px !important;
 }
 
 .border-radius {
-    border-radius: 30px;
+    border-radius: 25px;
 }
 
 .border-radius-element {
-    border-radius: 24px;
+    border-radius: 16px;
 }
 
 .border-radius-left {
-    border-top-left-radius: 30px;
-    border-bottom-left-radius: 30px
+    border-top-left-radius: 24px;
+    border-bottom-left-radius: 24px
 }
 
 .box-shadow-primary:hover {
