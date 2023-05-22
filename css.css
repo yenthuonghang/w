@@ -195,7 +195,7 @@ a.visited {
 
 .carousel-inner {
     height: 100%;
-    border-radius: 24px;
+    border-radius: 16px;
 
 }
 
@@ -331,7 +331,7 @@ h5 {
 }
 
 .border-radius {
-    border-radius: 25px;
+    border-radius: 24px;
 }
 
 .border-radius-element {
