@@ -27,8 +27,8 @@
 .a-secondary {
     font-family: Lexend-VariableFont_wght,
         sans-serif;
-    font-size: 17px;
-    font-weight: 400;
+   /* font-size: 17px;
+    font-weight: 400;*/
     color: var(--secondary-color) !important;
     text-decoration: none !important;
 }
@@ -36,7 +36,7 @@
 a {
     font-family: Kanit-Medium,
         sans-serif;
-    font-size: 17px;
+   /* font-size: 17px;*/
 }
 
 a.link {
@@ -271,10 +271,10 @@ p {
 h5 {
     font-family: Lexend-VariableFont_wght,
         sans-serif;
-    font-size: 16px !important;
+    /*font-size: 16px !important;*/
     /* line-height: 28px !important; */
     /* margin-bottom: 10px !important; */
-    font-weight: 200 !important;
+   /* font-weight: 200 !important;*/
 
 }
 
