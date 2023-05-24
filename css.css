@@ -25,18 +25,19 @@
 }
 
 .a-secondary {
-    font-family: Lexend-VariableFont_wght,
+    font-family: Kanit-Medium,
         sans-serif;
-   /* font-size: 17px;
+    /* font-size: 17px;
     font-weight: 400;*/
     color: var(--secondary-color) !important;
     text-decoration: none !important;
 }
 
 a {
-    font-family: Lexend-VariableFont_wght,
+    font-family: Kanit-Medium,
         sans-serif;
-   /* font-size: 17px;*/
+
+    /* font-size: 17px;*/
 }
 
 a.link {
@@ -134,7 +135,8 @@ a.visited {
     padding-bottom: 12px !important;
     padding-left: 28px !important;
     padding-right: 28px !important;
-    font-family: Lexend-VariableFont_wght, sans-serif  !important ;
+    font-family: Kanit-Medium,
+        sans-serif !important;
 }
 
 .btn-primary:hover {
@@ -149,7 +151,7 @@ a.visited {
 }
 
 
-.btn-primary-custom {
+.btn-secondary-custom {
     box-shadow: none !important;
     background-color: var(--secondary-color) !important;
     border-color: var(--secondary-color) !important;
@@ -158,16 +160,19 @@ a.visited {
     padding-bottom: 12px !important;
     padding-left: 28px !important;
     padding-right: 28px !important;
-   font-family: Lexend-VariableFont_wght, sans-serif  !important
+    font-family: Kanit-Medium,
+        sans-serif !important;
 }
 
-.btn-primary-custom:hover {
+.btn-secondary-custom:hover {
     background-color: var(--secondary-hover-color) !important;
     border-color: var(--secondary-hover-color) !important;
 }
 
 .btn-outline {
     box-shadow: none !important;
+    font-family: Kanit-Medium,
+        sans-serif;
 
 }
 
@@ -227,7 +232,7 @@ a.visited {
 
 h1 {
     font-family: Kanit-Medium, sans-serif;
-   /* font-size: 56px !important;*/
+    /* font-size: 56px !important;*/
 }
 
 .h1-custom-text {
@@ -276,20 +281,20 @@ h5 {
     /*font-size: 16px !important;*/
     /* line-height: 28px !important; */
     /* margin-bottom: 10px !important; */
-   /* font-weight: 200 !important;*/
+    /* font-weight: 200 !important;*/
 
 }
 
 h1 {
-  /*  line-height: 56px !important;*/
+    /*  line-height: 56px !important;*/
 }
 
 .h1-custom-text {
-   /* line-height: 56px;*/
+    /* line-height: 56px;*/
 }
 
 .h1-gradient {
-  /*  line-height: 56px;*/
+    /*  line-height: 56px;*/
 }
 
 p,
